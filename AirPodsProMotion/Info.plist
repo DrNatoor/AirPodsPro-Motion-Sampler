@@ -27,7 +27,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSMotionUsageDescription</key>
-	<string>AirPodsProのモーション取得のために使うよ</string>
+	<string>Dies wird benutzt, um einen Antrag für die Air Pods Pro zu stellen.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

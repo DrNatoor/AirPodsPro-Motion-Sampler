@@ -2,7 +2,7 @@
 //  ExportCSV.swift
 //  AirPodsProMotion
 //
-//  Created by Yoshio on 2020/11/10.
+//  Created by Dominic on 2020/11/29.
 //
 
 import Foundation
@@ -37,7 +37,7 @@ class ExportCSVViewController: UIViewController, CMHeadphoneMotionManagerDelegat
     }()
     
     
-    //AirPods Pro => APP :)
+    // AirPods Pro => APP
     let APP = CMHeadphoneMotionManager()
     
     let writer = CSVWriter()
